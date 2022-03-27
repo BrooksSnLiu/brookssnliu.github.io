@@ -1,27 +1,17 @@
 ## Welcome to Brooks' Portfolio
 
-You can use the [editor on GitHub](https://github.com/BrooksSnLiu/brookssnliu.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://github.com/BrooksSnLiu/brookssnliu.github.io/edit/main/docs/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 ### Here is a list of projects I've done in C#
 1. Reservation system
 2. Calculator
 3. Alarm Clock
+
+### Here are my skills:
+1. Programming in C#
+2. Programming in HTML
+3. Programming in Javascript
 
 ### Contact Me
 Phone number: 226-201-2606
